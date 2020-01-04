@@ -70,7 +70,7 @@ span {
 p {
   font-family: var(--roboto);
   color: var(--text-light);
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   line-height: 190%;
   text-indent: 35px;
 }
@@ -134,7 +134,7 @@ p {
 }
 .nav .nav-brand a {
   font-size: 1.6rem;
-  padding: 1rem 0;
+  padding: 0.2rem 0;
   display: block;
   font-family: var(--roboto);
   font-size: 1.7rem;
