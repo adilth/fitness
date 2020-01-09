@@ -134,7 +134,7 @@ p {
 }
 .nav .nav-brand a {
   font-size: 1.6rem;
-  padding: 0.2rem 0;
+  padding: 0 0;
   display: block;
   font-family: var(--roboto);
   font-size: 1.7rem;
